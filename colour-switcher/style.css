@@ -1,0 +1,67 @@
+.mainheader{
+    background-color: lightgray;
+    padding:1% 1% 1% 70%;
+    gap: 5%;
+    display: flex;
+}
+
+.homepage{
+    border: solid grey;
+    border-radius: 5%;
+    padding: 1% 10% 1% 10%;
+    background-color: grey;
+    color: black;
+}
+
+.homepage a{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.youtube{
+    border: solid grey;
+    border-radius: 5%;
+    padding: 1% 10% 1% 10%;
+    background-color: grey;
+    color: black;
+}
+
+.youtube a{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+
+.canvas {
+    margin: 100px auto 100px;
+    gap:1% ;
+    text-align: center;
+}
+
+#grey{
+    background-color: grey;
+    padding:3%;
+    border-color: black;
+}
+
+#yellow{
+    background-color:yellow;
+    padding:3%;
+    border-color: black;
+}
+
+#blue{
+    background-color: blue;
+    padding:3%;
+    border-color: black;
+}
+
+#white{
+    background-color: white;
+    padding:3%;
+    border-color: black;
+}
+
+
